@@ -1,0 +1,8 @@
+[package]
+name = "pistontest"
+version = "0.1.0"
+authors = ["SIMON"]
+
+[dependencies]
+piston_window = "0.64.0"
+rand = "0.5"
